@@ -1,103 +1,76 @@
 Time,Currency,Impact,Event,Actual,Forecast
-4:30pm,NZD,Low Impact Expected,BusinessNZ Services Index,48.0,
-6:54pm,GBP,Low Impact Expected,Rightmove HPI m/m,0.8%,
-8:30pm,CNY,Low Impact Expected,New Home Prices m/m,-0.28%,
-9:00pm,CNY,Low Impact Expected,Fixed Asset Investment ytd/y,1.8%,-5.0%
-9:00pm,CNY,Low Impact Expected,Industrial Production y/y,6.3%,5.3%
-9:00pm,CNY,Low Impact Expected,NBS Press Conference,,
-9:00pm,CNY,Low Impact Expected,Retail Sales y/y,2.8%,2.6%
-9:00pm,CNY,Low Impact Expected,Unemployment Rate,5.3%,5.1%
-7:15am,CAD,Low Impact Expected,Housing Starts,,243K
-7:30am,CAD,High Impact Expected,CPI m/m,,0.7%
-7:30am,CAD,High Impact Expected,Median CPI y/y,,2.4%
-7:30am,CAD,High Impact Expected,Trimmed CPI y/y,,2.4%
-7:30am,CAD,Medium Impact Expected,Common CPI y/y,,2.6%
-7:30am,CAD,Low Impact Expected,Core CPI m/m,,
-7:30am,USD,Medium Impact Expected,Empire State Manufacturing Index,,4.0
-8:15am,USD,Low Impact Expected,Capacity Utilization Rate,,76.2%
-8:15am,USD,Low Impact Expected,Industrial Production m/m,,0.1%
-9:00am,USD,Low Impact Expected,NAHB Housing Market Index,,37
-4:45pm,NZD,Low Impact Expected,FPI m/m,,
-10:30pm,AUD,High Impact Expected,Cash Rate,,4.10%
-10:30pm,AUD,High Impact Expected,RBA Rate Statement,,
-Tentative,AUD,Low Impact Expected,NAB Quarterly Business Confidence,,
-11:30pm,AUD,High Impact Expected,RBA Press Conference,,
-11:30pm,JPY,Low Impact Expected,Tertiary Industry Activity m/m,,0.8%
-2:30am,CHF,Low Impact Expected,PPI m/m,,0.0%
-5:00am,EUR,Low Impact Expected,German ZEW Economic Sentiment,,38.9
-5:00am,EUR,Low Impact Expected,ZEW Economic Sentiment,,24.0
+9:00am,USD,Low Impact Expected,Construction Spending m/m,,0.1%
+10:00am,EUR,Low Impact Expected,Consumer Confidence,,-15
+3:00pm,NZD,Medium Impact Expected,RBNZ Gov Breman Speaks,,
+5:00pm,AUD,Low Impact Expected,Flash Manufacturing PMI,,
+5:00pm,AUD,Low Impact Expected,Flash Services PMI,,
+6:30pm,JPY,Low Impact Expected,National Core CPI y/y,,1.7%
+7:30pm,JPY,Low Impact Expected,Flash Manufacturing PMI,,52.9
+3:15am,EUR,Medium Impact Expected,French Flash Manufacturing PMI,,49.0
+3:15am,EUR,Medium Impact Expected,French Flash Services PMI,,49.2
+3:30am,EUR,High Impact Expected,German Flash Manufacturing PMI,,49.8
+3:30am,EUR,High Impact Expected,German Flash Services PMI,,52.5
+4:00am,EUR,Low Impact Expected,Flash Manufacturing PMI,,49.5
+4:00am,EUR,Low Impact Expected,Flash Services PMI,,50.8
+4:30am,GBP,High Impact Expected,Flash Manufacturing PMI,,51.1
+4:30am,GBP,High Impact Expected,Flash Services PMI,,53.0
+Tentative,GBP,Low Impact Expected,10-y Bond Auction,,
+6:00am,GBP,Low Impact Expected,CBI Realized Sales,,-40
 7:15am,USD,Low Impact Expected,ADP Weekly Employment Change,,
-9:00am,USD,Medium Impact Expected,Pending Home Sales m/m,,-1.2%
-Tentative,USD,Low Impact Expected,CB Leading Index m/m,,
-9:30am,AUD,Low Impact Expected,CB Leading Index m/m,,
-Tentative,NZD,Low Impact Expected,GDT Price Index,,
-10:15am,EUR,Low Impact Expected,German Buba President Nagel Speaks,,
+7:30am,USD,Low Impact Expected,Revised Nonfarm Productivity q/q,,2.4%
+7:30am,USD,Low Impact Expected,Revised Unit Labor Costs q/q,,3.4%
+8:45am,USD,High Impact Expected,Flash Manufacturing PMI,,
+8:45am,USD,High Impact Expected,Flash Services PMI,,
+9:00am,USD,Medium Impact Expected,Richmond Manufacturing Index,,-5
+10:00am,EUR,Low Impact Expected,German Buba President Nagel Speaks,,
+10:15am,CHF,Low Impact Expected,Gov Board Member Tschudin Speaks,,
+12:00pm,CHF,Medium Impact Expected,SNB Chairman Schlegel Speaks,,
 3:30pm,USD,Low Impact Expected,API Weekly Statistical Bulletin,,
-4:45pm,NZD,Low Impact Expected,Current Account,,-4.75B
-6:30pm,AUD,Low Impact Expected,MI Leading Index m/m,,
-6:50pm,JPY,Low Impact Expected,Trade Balance,,-0.63T
-3:00am,CHF,Low Impact Expected,SECO Economic Forecasts,,
-5:00am,EUR,Low Impact Expected,Final Core CPI y/y,,2.4%
-5:00am,EUR,Low Impact Expected,Final CPI y/y,,1.9%
-Tentative,EUR,Low Impact Expected,German 30-y Bond Auction,,
-7:30am,CAD,Low Impact Expected,Foreign Securities Purchases,,
-7:30am,USD,High Impact Expected,Core PPI m/m,,0.3%
-7:30am,USD,High Impact Expected,PPI m/m,,0.3%
-8:45am,CAD,High Impact Expected,BOC Rate Statement,,
-8:45am,CAD,High Impact Expected,Overnight Rate,,2.25%
-9:00am,USD,Low Impact Expected,Factory Orders m/m,,0.4%
-9:30am,CAD,High Impact Expected,BOC Press Conference,,
+6:50pm,JPY,Low Impact Expected,Monetary Policy Meeting Minutes,,
+7:30pm,AUD,High Impact Expected,CPI m/m,,
+7:30pm,AUD,High Impact Expected,CPI y/y,,3.8%
+7:30pm,AUD,High Impact Expected,Trimmed Mean CPI m/m,,
+9:40pm,AUD,Low Impact Expected,RBA Assist Gov Jones Speaks,,
+2:00am,GBP,High Impact Expected,CPI y/y,,3.0%
+2:00am,GBP,Low Impact Expected,Core CPI y/y,,3.1%
+2:00am,GBP,Low Impact Expected,PPI Input m/m,,0.5%
+2:00am,GBP,Low Impact Expected,PPI Output m/m,,0.3%
+2:00am,GBP,Low Impact Expected,RPI y/y,,3.7%
+3:45am,EUR,Medium Impact Expected,ECB President Lagarde Speaks,,
+4:00am,CHF,Low Impact Expected,UBS Economic Expectations,,
+4:00am,EUR,Low Impact Expected,German ifo Business Climate,,86.3
+4:30am,GBP,Low Impact Expected,HPI y/y,,2.5%
+7:00am,GBP,Low Impact Expected,MPC Member Greene Speaks,,
+7:30am,USD,Low Impact Expected,Current Account,,
+7:30am,USD,Low Impact Expected,Import Prices m/m,,0.2%
+8:00am,CNY,Low Impact Expected,CB Leading Index m/m,,
+9:00am,CHF,Low Impact Expected,SNB Quarterly Bulletin,,
+9:00am,EUR,Low Impact Expected,Belgian NBB Business Climate,,-14.1
 9:30am,USD,Low Impact Expected,Crude Oil Inventories,,
-1:00pm,USD,High Impact Expected,Federal Funds Rate,,3.75%
-1:00pm,USD,High Impact Expected,FOMC Economic Projections,,
-1:00pm,USD,High Impact Expected,FOMC Statement,,
-1:30pm,USD,High Impact Expected,FOMC Press Conference,,
-3:00pm,USD,Low Impact Expected,TIC Long-Term Purchases,,71.6B
-Tentative,NZD,Low Impact Expected,Westpac Consumer Sentiment,,
-4:45pm,NZD,High Impact Expected,GDP q/q,,0.4%
-6:50pm,JPY,Low Impact Expected,Core Machinery Orders m/m,,-9.5%
-7:30pm,AUD,High Impact Expected,Employment Change,,20.3K
-7:30pm,AUD,High Impact Expected,Unemployment Rate,,4.1%
-7:30pm,AUD,Low Impact Expected,RBA Financial Stability Review,,
-Tentative,JPY,High Impact Expected,BOJ Policy Rate,,<0.75%
-Tentative,JPY,High Impact Expected,Monetary Policy Statement,,
-11:30pm,JPY,Low Impact Expected,Revised Industrial Production m/m,,2.2%
-Tentative,JPY,High Impact Expected,BOJ Press Conference,,
-2:00am,GBP,High Impact Expected,Claimant Count Change,,24.5K
-2:00am,GBP,Medium Impact Expected,Average Earnings Index 3m/y,,3.9%
-2:00am,GBP,Low Impact Expected,Unemployment Rate,,5.3%
-Tentative,CNY,Low Impact Expected,Foreign Direct Investment ytd/y,,
-3:30am,CHF,High Impact Expected,SNB Monetary Policy Assessment,,
-3:30am,CHF,High Impact Expected,SNB Policy Rate,,0.00%
-4:00am,CHF,High Impact Expected,SNB Press Conference,,
-Tentative,EUR,Low Impact Expected,Spanish 10-y Bond Auction,,
-7:00am,GBP,High Impact Expected,Monetary Policy Summary,,
-7:00am,GBP,High Impact Expected,MPC Official Bank Rate Votes,,0-3-6
-7:00am,GBP,High Impact Expected,Official Bank Rate,,3.75%
-Tentative,GBP,Low Impact Expected,BOE Inflation Letter,,
-7:30am,USD,High Impact Expected,Unemployment Claims,,215K
-7:30am,USD,Medium Impact Expected,Philly Fed Manufacturing Index,,17.5
-8:15am,EUR,High Impact Expected,Main Refinancing Rate,,2.15%
-8:15am,EUR,High Impact Expected,Monetary Policy Statement,,
-8:45am,EUR,High Impact Expected,ECB Press Conference,,
-9:00am,USD,Medium Impact Expected,New Home Sales,,723K
-9:00am,USD,Low Impact Expected,Final Wholesale Inventories m/m,,0.2%
+5:15pm,AUD,Low Impact Expected,RBA Assist Gov Kent Speaks,,
+6:50pm,JPY,Low Impact Expected,SPPI y/y,,2.6%
+Tentative,AUD,Low Impact Expected,NAB Quarterly Business Confidence,,
+12:00am,JPY,Low Impact Expected,BOJ Core CPI y/y,,
+2:00am,EUR,Low Impact Expected,German GfK Consumer Climate,,-28.6
+4:00am,EUR,Low Impact Expected,M3 Money Supply y/y,,3.2%
+4:00am,EUR,Low Impact Expected,Private Loans y/y,,3.1%
+4:30am,GBP,Low Impact Expected,MPC Member Breeden Speaks,,
+6:00am,EUR,Low Impact Expected,German Buba Monthly Report,,
+7:30am,USD,High Impact Expected,Unemployment Claims,,211K
 9:30am,USD,Low Impact Expected,Natural Gas Storage,,
-4:45pm,NZD,Low Impact Expected,Trade Balance,,-470M
-All Day,JPY,Non-Economic,Bank Holiday,,
-8:00pm,CNY,Low Impact Expected,1-y Loan Prime Rate,,3.00%
-8:00pm,CNY,Low Impact Expected,5-y Loan Prime Rate,,3.50%
-9:00pm,NZD,Low Impact Expected,Credit Card Spending y/y,,
-2:00am,EUR,Low Impact Expected,German PPI m/m,,0.3%
-2:00am,GBP,Low Impact Expected,Public Sector Net Borrowing,,8.7B
-4:00am,EUR,Low Impact Expected,Current Account,,17.2B
-4:00am,EUR,Low Impact Expected,Italian Trade Balance,,5.65B
-5:00am,EUR,Low Impact Expected,Trade Balance,,12.8B
-6:00am,GBP,Low Impact Expected,CBI Industrial Order Expectations,,-29
-Tentative,EUR,Low Impact Expected,Euro Summit,,
-7:30am,CAD,Medium Impact Expected,Core Retail Sales m/m,,1.2%
-7:30am,CAD,Medium Impact Expected,Retail Sales m/m,,1.4%
-7:30am,CAD,Low Impact Expected,IPPI m/m,,0.6%
-7:30am,CAD,Low Impact Expected,NHPI m/m,,-0.3%
-7:30am,CAD,Low Impact Expected,RMPI m/m,,0.8%
-12:30pm,EUR,Low Impact Expected,German Buba President Nagel Speaks,,
+11:00am,CAD,Low Impact Expected,Gov Council Member Rogers Speaks,,
+11:00am,GBP,Low Impact Expected,MPC Member Taylor Speaks,,
+11:30am,GBP,Low Impact Expected,MPC Member Greene Speaks,,
+6:00pm,USD,Low Impact Expected,FOMC Member Jefferson Speaks,,
+7:01pm,GBP,Low Impact Expected,GfK Consumer Confidence,,-24
+2:00am,GBP,High Impact Expected,Retail Sales m/m,,-0.3%
+3:00am,EUR,Low Impact Expected,Spanish Flash CPI y/y,,2.4%
+All Day,EUR,Low Impact Expected,Eurogroup Meetings,,
+Tentative,EUR,Low Impact Expected,Italian 10-y Bond Auction,,
+9:00am,USD,Medium Impact Expected,Revised UoM Consumer Sentiment,,
+9:00am,USD,Low Impact Expected,Revised UoM Inflation Expectations,,
+10:30am,USD,Low Impact Expected,FOMC Member Daly Speaks,,
+10:40am,USD,Low Impact Expected,FOMC Member Paulson Speaks,,
+7:00pm,CHF,Non-Economic,Daylight Saving Time Shift,,
+7:00pm,EUR,Non-Economic,Daylight Saving Time Shift,,
+7:00pm,GBP,Non-Economic,Daylight Saving Time Shift,,
